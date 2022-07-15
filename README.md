@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ivan Tsoi (@DesPises)
 - 👀 I’m interested in developing games (in priority for PC)
 - 🌱 I’m currently learning how to work with Unreal Engine 5 and C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with  professional developers
 - 📫 vanek1tsoy@gmail.com
